@@ -6,7 +6,7 @@
 * Data is communicated between processes. `No Shared Memory`
 * `Scale` by adding more of the same
 
-### 2. Shared memory multi-threading uses locks (and their ilk)
+### 2. Shared memory multi-threading uses locks (and their ilk) (Go through @ Sync module)
 
 ### Go's Concurrency Tool Set
 - goroutines
